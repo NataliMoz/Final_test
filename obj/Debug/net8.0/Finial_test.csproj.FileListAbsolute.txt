@@ -1,0 +1,14 @@
+/Users/natali/Desktop/Finial_test/bin/Debug/net8.0/Finial_test
+/Users/natali/Desktop/Finial_test/bin/Debug/net8.0/Finial_test.deps.json
+/Users/natali/Desktop/Finial_test/bin/Debug/net8.0/Finial_test.runtimeconfig.json
+/Users/natali/Desktop/Finial_test/bin/Debug/net8.0/Finial_test.dll
+/Users/natali/Desktop/Finial_test/bin/Debug/net8.0/Finial_test.pdb
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.AssemblyInfoInputs.cache
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.AssemblyInfo.cs
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.csproj.CoreCompileInputs.cache
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.dll
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/refint/Finial_test.dll
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.pdb
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.genruntimeconfig.cache
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/ref/Finial_test.dll
