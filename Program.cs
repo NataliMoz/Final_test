@@ -4,8 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Задаем исходный массив строк
-        string[] initialArray = { "hello", "2", "world", ":-)", "cat", "dog", "sun", "1234" };
+        // Вводим исходный массив строк с клавиатуры или задаем его программно
+        Console.WriteLine("Введите элементы массива через пробел:");
+        string input = Console.ReadLine();
+        string[] initialArray = input.Split(' ');
 
         // Считаем количество строк, длина которых меньше или равна 3 символам
         int count = 0;
@@ -31,11 +33,8 @@ class Program
             }
         }
 
-        // Выводим результат
-        Console.WriteLine("Массив строк длиной <= 3 символа:");
-        for (int i = 0; i < resultArray.Length; i++)
-        {
-            Console.WriteLine(string.Join(",", resultArray));
-        }
+        // Вывод массива в строку через запятую
+        Console.WriteLine("Результат: ");
+        Console.WriteLine(string.Join(", ", resultArray));
     }
 }
