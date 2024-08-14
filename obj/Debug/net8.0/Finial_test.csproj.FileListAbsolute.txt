@@ -12,3 +12,4 @@
 /Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.pdb
 /Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.genruntimeconfig.cache
 /Users/natali/Desktop/Finial_test/obj/Debug/net8.0/ref/Finial_test.dll
+/Users/natali/Desktop/Finial_test/obj/Debug/net8.0/Finial_test.sourcelink.json
